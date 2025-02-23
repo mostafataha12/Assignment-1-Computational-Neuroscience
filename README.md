@@ -1,5 +1,7 @@
 🧠 Simple Neural Network with Tanh Activation
+
 🚀 A lightweight, fully connected artificial neural network (ANN) implementation using NumPy!
+
 This project demonstrates a simple 2-layer feedforward neural network that uses the tanh activation function to process inputs and generate outputs.
 
 ✨ Features:
