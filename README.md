@@ -1,7 +1,7 @@
 
 ![Screenshot 2025-02-23 194602](https://github.com/user-attachments/assets/cdfe9af4-dad8-4af3-a180-14616294aa9e)
 
-🧠 Simple Neural Network with Tanh Activation
+🧠 Simple Neural Network with Tanh Actvation
 
 🚀 A lightweight, fully connected artificial neural network (ANN) implementation using NumPy!
 
