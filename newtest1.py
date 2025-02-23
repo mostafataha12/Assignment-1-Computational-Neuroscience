@@ -34,3 +34,17 @@ o2_output = tanh(h1_output * weights['w7'] + h2_output * weights['w8'] + b2)
 print("Output of the network:")
 print(f"o1: {o1_output}")
 print(f"o2: {o2_output}")
+
+
+def squared_error(target, output):
+    return 0.5 * (target - output) ** 2
+
+target_o1, target_o2 = 0.1, 0.99
+
+user_choice = input("Do you want to calculate the total error? (yes/no): ").strip().lower()
+
+if user_choice == "yes":
+    total_error = squared_error(target_o1, o1_output) + squared_error(target_o2, o2_output)
+    print(f"Total Error: {total_error}")
+else:
+    print("Total error calculation skipped.")
