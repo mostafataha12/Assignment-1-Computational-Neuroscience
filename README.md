@@ -1,7 +1,5 @@
 
-![Screenshot 2025-02-23 193610](https://github.com/user-attachments/assets/4501bbfd-8433-4ecc-9b0a-769ea78e5cc4) Exercise: Write the python code for the previous network for the tanh
-activation function. choose the weight random from interval [-0.5, 0.5]. b1, b2= 0.5, 0.7 respectively. Print the output of the network.
-
+![Screenshot 2025-02-23 194602](https://github.com/user-attachments/assets/cdfe9af4-dad8-4af3-a180-14616294aa9e)
 
 🧠 Simple Neural Network with Tanh Activation
 
